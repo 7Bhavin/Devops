@@ -1,4 +1,3 @@
-#need to run on self hosted runner
 name: My first GitHub Action
 
 on: [push]
